@@ -75,11 +75,6 @@ This script:
 
 ---
 
-## 📋 Sample Output
-
-```
-الطالب ذهب إلى المدرسة صباحًا رغم الضوضاء في الخلفية، وكان سعيدًا باليوم الدراسي.
-```
 
 ---
 
@@ -99,15 +94,3 @@ This script:
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 🤝 Contributions
-
-Feel free to fork the repo, open issues, or submit pull requests to improve the pipeline, especially for better Arabic language handling and noisy data cases.
-
----
-
-## 📬 Contact
-
-**Mohamed Radwan**  
-📧 [your.email@example.com]  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)
